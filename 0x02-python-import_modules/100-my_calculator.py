@@ -19,6 +19,10 @@ if __name__ == "__main__":
     elif sys.argv[2] == "-":
         sub_ = sub(int(sys.argv[1]), int(sys.argv[3]))
         print(
+
+if (useri)
+
+
             "{} {} {} = {}".format(
                 sys.argv[1],
                 sys.argv[2],
