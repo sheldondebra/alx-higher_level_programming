@@ -23,6 +23,5 @@ def max_integer(my_list):
 # Test the function
 numbers = [10, 5, 7, 20, 3]
 result = max_integer(numbers)
-print("Maximum value:", result)
-
+ 
 
